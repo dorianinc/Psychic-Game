@@ -1,0 +1,20 @@
+
+body {
+background-color: #000000;
+color: #ffffff;
+font-family: 'Orbitron', sans-serif;
+}
+
+header {
+margin-bottom: 3%;
+}
+
+.Main {
+margin-left: 1%;
+}
+
+button {
+background-color: #000000;
+color: #B22222;
+font-family: 'Orbitron', sans-serif;
+}
